@@ -23,5 +23,5 @@ chmod +x ./install_xray.sh
 mainuser  
 newuser  
 rmuser   
-sharelink 
+sharelink   
 changesni
