@@ -12,7 +12,9 @@ chmod +x ./run-upgrade.sh
 
 # Установка впн
 cd /root/debian_vpn-main
+
 chmod +x ./install_xray.sh
+
 ./install_xray.sh
 
 
